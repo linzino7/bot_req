@@ -6,3 +6,4 @@ feedparser
 pymongo
 pandas
 beautifulsoup4
+schedule
