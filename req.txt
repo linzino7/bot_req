@@ -1,0 +1,7 @@
+﻿matplotlib
+seaborn
+pandas
+scikit-learn
+numpy
+jieba
+python-dateutil
